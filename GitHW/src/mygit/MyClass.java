@@ -6,6 +6,6 @@ public class MyClass {
 		System.out.println("2nd version.");
 		System.out.println("in master branch");
 		YourClass your = new YourClass();
-		your.sayHello("Everyone");
+		your.sayHello("Everyone"); 
 	}
 }
